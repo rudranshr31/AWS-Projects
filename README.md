@@ -1,4 +1,4 @@
-# AWS-Projects
+# Virtual Server Launch
 Hey there
 I will not start by my introduction because that's not important right now but i am a B.com graduate having keen interest in Cloud, I had deployed the Virtual server in which i faced some problem while connecting it through W-powershell. 
 
